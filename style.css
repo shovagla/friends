@@ -1,0 +1,74 @@
+.nameColor{
+    color:deeppink;
+}
+.buttonColor{
+    border:1px solid deeppink;
+    border-radius: 5px;
+    background-color: deeppink;
+    color: white;
+    text-decoration: none;
+}
+.buttonColor:hover{
+    color:greenyellow;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.picture{
+    width:100%;
+}
+.floatType{
+    width:40%;
+    float: left;
+    margin-left: 4%;
+    border:2%;
+}
+.topBar{
+    background-image: url("images/header-bg.png");
+    background-repeat: none;
+}
+section{
+    height: 500px;
+    padding-bottom:100px;
+}
+.rakib{
+    width:90%;
+}
+.bottomBar{
+    background-image:url("images/biography-bg.png");
+    background-repeat: no-repeat
+
+}
+.project{
+    text-align: center;
+}
+.latest{
+    width:30%;
+    float: left;
+    margin-left:2%;
+}
+.final{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.client{
+    text-align: center;
+}
+u{
+    color:blue;
+
+} 
+.bd{
+    text-align: center;
+    background-color: orange;
+    position: absolute;
+    margin-left: 40%;
+    margin-bottom: 50%;
+    border-radius: 5px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-top:30px ;
+    padding-right:30px ;
+
+}
